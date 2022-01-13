@@ -3,7 +3,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=FerrnA&style=flat-square)
 
-- 🔭 I’m currently working for a group project of evaluative instance.
+- 🔭 I’m currently working in a group project of evaluative instance.
 - 🌱 I’m currently learning Ruby.
 - 👯 I’m looking to collaborate on web and app development.
 - ⚽ Here are my main skills:<br/>
@@ -15,8 +15,8 @@
 Please feel free to contact me. 
 
 <span >
-<a href="https://www.linkedin.com/in/fernandoarriondo/" ><img width="5%" src="https://github.com/FerrnA/FerrnA/blob/main/linkedin.png"> &nbsp;
-<a href="mailto:arriondovfernando@gmail.com" ><img width="5%" src="https://github.com/FerrnA/FerrnA/blob/main/gmail-icon.png">
+<a href="https://www.linkedin.com/in/fernandoarriondo/"><img width="5%" src="https://github.com/FerrnA/FerrnA/blob/main/linkedin.png"> &nbsp;
+<a href="mailto:arriondovfernando@gmail.com"><img width="5%" src="https://github.com/FerrnA/FerrnA/blob/main/gmail-icon.png">
 </span>
 
 <!--
