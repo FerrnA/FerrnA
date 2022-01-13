@@ -33,3 +33,28 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!-- <p>
+  <em>
+    A <b>Full Stack MERN Developer</b> and a <b>UI UX Designer</b> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Medal.gif" width=20 height=20>  <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=35 height=25>.
+  </em>
+ </p>
+
+<img align="right" alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/1579322/screenshots/6587273/blue_boy_typing_nothought.gif" />
+
+<em>
+  
+
+-  I’m currently a Full Stack Developer at [IBM Cloud.](https://www.ibm.com/in-en/cloud).
+-  I work on React, Next JS, React Native, Redux, Node, Express, MongoDB, AdobeXD, Docker, Kubernetes and AWS Lamda ( Microservices ).
+-  Send me a Message on [LinkedIn](https://www.linkedin.com/in/kiranfullstack).
+<br/> 
+
+### Want to hire me ? 🧑🏽‍💻
+### [Download my resume and call me](https://kiranfullstack.com)
+
+## Ph no. +91-8722978015
+## Email. kiran.fullstack@outlook.com
+
+<br/> 
+</em>
+-->
