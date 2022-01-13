@@ -12,8 +12,7 @@
         web skills: React, Node, Express, CSS, SCSS, HTML, Javascript, MySQL, PostgreSQL and etc
   -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FerrnA&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FerrnA)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **FerrnA/FerrnA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
