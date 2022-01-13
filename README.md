@@ -1,4 +1,18 @@
-### Hi, i'm Fernando 👋
+## Hi, i'm Fernando 👋
+
+
+
+
+
+
+- 🔭 I’m currently working for a group project of evaluative instance.
+- 🌱 I’m currently learning Ruby.
+- 👯 I’m looking to collaborate on web and app development.
+- ⚽ Here are my main skills:<br/>
+        web skills: React, Node, Express, CSS, SCSS, HTML, Javascript, MySQL, PostgreSQL and etc
+  -->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FerrnA&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
