@@ -1,9 +1,7 @@
-## Hi, i'm Fernando 👋
 
+### Hi, I'm [Fernando](about:blank), a PERN Stack Developer! <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width=35 height=35>
 
-
-
-
+![Profile Views](https://komarev.com/ghpvc/?username=FerrnA&style=flat-square)
 
 - 🔭 I’m currently working for a group project of evaluative instance.
 - 🌱 I’m currently learning Ruby.
@@ -13,6 +11,13 @@
   -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FerrnA)](https://github.com/anuraghazra/github-readme-stats)
+
+Please feel free to contact me. 
+
+<span >
+<a href="https://www.linkedin.com/in/fernandoarriondo/" ><img width="5%" src="https://github.com/FerrnA/FerrnA/blob/main/linkedin.png"> &nbsp;
+<a href="mailto:arriondovfernando@gmail.com" ><img width="5%" src="https://github.com/FerrnA/FerrnA/blob/main/gmail-icon.png">
+</span>
 
 <!--
 **FerrnA/FerrnA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
