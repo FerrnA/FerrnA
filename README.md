@@ -1,16 +1,43 @@
 
-### Hi, I'm [Fernando](about:blank), a PERN Stack Developer! <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width=35 height=35>
+### Welcome! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> :smile: My name's Fernando and I'm fullStack Developer; curious, and in constant learning.  
 
 ![Profile Views](https://komarev.com/ghpvc/?username=FerrnA&style=flat-square)
 
-- 🔭 I’m currently working in a group project of evaluative instance.
-- 🌱 I’m currently learning Ruby.
-- 👯 I’m looking to collaborate on web and app development.
-- ⚽ Here are my main skills:<br/>
-        web skills: React, Node, Express, CSS, SCSS, HTML, Javascript, MySQL, PostgreSQL and etc
-  -->
+<details><summary>🛠 Here are my tech Skills: </summary>
+<p>
+<div align="center">
+  <span><img height="30" width="40" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />JavaScript</span>
+  <span>-</span>
+  <span><img height="30" width="40" alt="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />TypeScript</span>
+  <span>-</span>
+  <span><img height="30" width="40" alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />React</span>
+  <span>-</span>
+  <span><img height="30" width="40" alt="Redux" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />Redux</span>
+  <span>-</span>
+  <span><img height="30" width="40" alt="Node" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />Node.js</span>
+  <span>-</span>
+  <span><img height="30" width="40" alt="Css" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />Css</span>
+  <span>-</span>
+  <span><img height="30" width="40" alt="Less" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-plain-wordmark.svg" />Less</span>
+  <span>-</span>
+  <span><img height="30" width="40" alt="Html" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />Html</span>
+  <br></br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FerrnA)](https://github.com/anuraghazra/github-readme-stats)
+  <span><img height="30" width="40" alt="PostgresSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />PostgresSQL</span>
+  <span>-</span>
+  <span><img height="30" width="40" alt="Sequelize" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" />Sequelize</span>
+  <span>-</span>
+  <span><img height="30" width="40" alt="Styled components" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/styled-components/styled-components-original.svg" />Styled components</span>
+
+  <span><img height="30" width="40" alt="Express" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />Express</span>
+  <span><img height="30" width="40" alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />Git</span>
+</div>
+
+
+</p>
+</details>  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FerrnA)](https://github.com/anuraghazra/github-readme-stats)  
 
 Please feel free to contact me. 
 
