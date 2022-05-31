@@ -1,15 +1,12 @@
-<h1 align="center">Hola 👋, soy Fernando</h1>
-<h3 align="center">desarrollador fullstack react</h3>
+<h1 align="center">Welcome 👋, i'm Fernando</h1>
+<h3 align="center">i'm a fullstack-frontend developer</h3><br/>  
 
 
-- 👨‍💻 Puedes encontrar mis proyectos en [ferrna.vercel.app](ferrna.vercel.app)
+- 📨 Ask me about css, javascript, node, react, redux, tailwind, express, sequelize, sql, arduino  
 
-- 📫 How to reach me **arriondovfernando@gmail.com**
+- 👨‍💻 Explore some of my projects in -> [portfolio-ferrna.vercel.app](portfolio-ferrna.vercel.app)  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/arriondo-fernando" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/arriondo-fernando" height="30" width="40" /></a>
-</p>
+<br/>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -28,7 +25,14 @@
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
 </p>
 
+<span >
+  
+### Want to hire me ? 🧑🏽‍💻
+### [Download my resume and call me](https://portfolio-ferrna.vercel.app)
 
+## Ph no. +54-3424286541
+## Email. arriondovfernando@gmail.com
+</span>
 
 
 <!--
@@ -112,7 +116,7 @@ Here are some ideas to get you started:
 
 ### Want to hire me ? 🧑🏽‍💻
 ### [Download my resume and call me](https://kiranfullstack.com)
-
+  
 ## Ph no. +91-8722978015
 ## Email. kiran.fullstack@outlook.com
 
