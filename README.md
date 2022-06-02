@@ -1,4 +1,4 @@
-<h1 align="center">Welcome 👋, i'm Fernando</h1>
+<h1 align="center">Hi! 👋, i'm Fernando</h1>
 
 - 📨 Ask me about css, javascript, node, react, redux, tailwind, express, sequelize, sql, arduino  
 
