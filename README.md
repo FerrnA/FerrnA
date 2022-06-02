@@ -1,15 +1,15 @@
-<h1 align="center">Hi! 👋, i'm Fernando</h1>
+<h1 align="center">Hi! 👋 i'm Fernando</h1>
+i'm a passionate junior web developer currently in job search and learning and developing proyects
 
-- 📨 Ask me about css, javascript, node, react, redux, tailwind, express, sequelize, sql, arduino  
+- 📨 Ask me about css, react, redux, frontend, node, express server, sql ddbb 
 
-- 👨‍💻 Explore some of my projects in -> [portfolio-ferrna.vercel.app](portfolio-ferrna.vercel.app)  
+- 👨‍💻 Find my projects and CV in -> [portfolio-fernan.vercel.app](portfolio-fernan.vercel.app)  
 
 <br/>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/></a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
+<!-- <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> -->
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>  
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
@@ -17,19 +17,17 @@
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
   <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
 </p>
 
-<span >
-  
-### Want to hire me ? 🧑🏽‍💻
-### [Download my resume and call me](https://portfolio-ferrna.vercel.app)
+Feel free to call me 🤙😊. 
 
-## Ph no. +54-3424286541
-## Email. arriondovfernando@gmail.com
+<span >
+Ph no. +54-3424286541 </br>
+<a href="https://www.linkedin.com/in/arriondo-fernando/"><img width="5%" src="https://github.com/FerrnA/FerrnA/blob/main/linkedin.png"> &nbsp;
+<a href="mailto:arriondovfernando@gmail.com"><img width="5%" src="https://github.com/FerrnA/FerrnA/blob/main/gmail-icon.png">
 </span>
 
 
@@ -96,28 +94,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!-- <p>
-  <em>
-    A <b>Full Stack MERN Developer</b> and a <b>UI UX Designer</b> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Medal.gif" width=20 height=20>  <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=35 height=25>.
-  </em>
- </p>
 
-<img align="right" alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/1579322/screenshots/6587273/blue_boy_typing_nothought.gif" />
-
-<em>
-  
-
--  I’m currently a Full Stack Developer at [IBM Cloud.](https://www.ibm.com/in-en/cloud).
--  I work on React, Next JS, React Native, Redux, Node, Express, MongoDB, AdobeXD, Docker, Kubernetes and AWS Lamda ( Microservices ).
--  Send me a Message on [LinkedIn](https://www.linkedin.com/in/kiranfullstack).
-<br/> 
-
-### Want to hire me ? 🧑🏽‍💻
-### [Download my resume and call me](https://kiranfullstack.com)
-  
-## Ph no. +91-8722978015
-## Email. kiran.fullstack@outlook.com
-
-<br/> 
-</em>
--->
