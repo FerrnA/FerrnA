@@ -1,6 +1,6 @@
 <h1 align="center">Hi! 👋 i'm Fernando</h1>
 
-- 📨 You can ask me about css, react, redux, frontend, node, express server, sql ddbb 
+- 📨 Ask me about css, react, redux, frontend, node, express server, sql ddbb 
 
 - 👨‍💻 Find my projects in -> [portfolio-fernan.vercel.app](portfolio-fernan.vercel.app)  
 
