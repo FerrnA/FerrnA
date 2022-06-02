@@ -1,6 +1,4 @@
 <h1 align="center">Welcome 👋, i'm Fernando</h1>
-<h3 align="center">i'm a fullstack-frontend developer</h3><br/>  
-
 
 - 📨 Ask me about css, javascript, node, react, redux, tailwind, express, sequelize, sql, arduino  
 
