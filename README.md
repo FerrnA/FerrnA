@@ -1,9 +1,8 @@
 <h1 align="center">Hi! 👋 i'm Fernando</h1>
-i'm a passionate junior web developer currently in job search and learning and developing proyects
 
-- 📨 Ask me about css, react, redux, frontend, node, express server, sql ddbb 
+- 📨 You can ask me about css, react, redux, frontend, node, express server, sql ddbb 
 
-- 👨‍💻 Find my projects and CV in -> [portfolio-fernan.vercel.app](portfolio-fernan.vercel.app)  
+- 👨‍💻 Find my projects in -> [portfolio-fernan.vercel.app](portfolio-fernan.vercel.app)  
 
 <br/>
 
@@ -22,8 +21,8 @@ i'm a passionate junior web developer currently in job search and learning and d
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
 </p>
 
-Feel free to reach me if you have any questions 😊.
 
+<br/>
 <span >
 Ph no. +54-3424286541 </br>
 <a href="https://www.linkedin.com/in/arriondo-fernando/"><img width="5%" src="https://github.com/FerrnA/FerrnA/blob/main/linkedin.png"> &nbsp;
