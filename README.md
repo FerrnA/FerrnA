@@ -23,8 +23,10 @@
 
 
 <br/>
+<hr>
 <span >
-Ph no. +54-3424286541 </br>
+<h4>Feel free to reach me at</h4>
+📱 +54-3424286541 </br>
 <a href="https://www.linkedin.com/in/arriondo-fernando/"><img width="5%" src="https://github.com/FerrnA/FerrnA/blob/main/linkedin.png"> &nbsp;
 <a href="mailto:arriondovfernando@gmail.com"><img width="5%" src="https://github.com/FerrnA/FerrnA/blob/main/gmail-icon.png">
 </span>
