@@ -22,7 +22,7 @@ i'm a passionate junior web developer currently in job search and learning and d
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
 </p>
 
-Feel free to call me 🤙😊. 
+Feel free to reach me if you have any questions 😊.
 
 <span >
 Ph no. +54-3424286541 </br>
