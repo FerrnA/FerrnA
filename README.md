@@ -1,4 +1,6 @@
-<h1 align="center">Hi! 👋 i'm Fernando</h1>
+<h1 align="center">Hi! 👋 i'm web dev</h1>
+<p align="center">After finishing soyhenry's bootcamp i'm looking for my first opportunity in IT </br>
+I'm a construction technician / music enthusiast and web developer. I like to spend my freetime playing the guitar, doing some open recreative activities, enjoying a cooking proccess, and watching debates, sports matches or videos / texts about history and geography </p>
 
 - 📨 Ask me about css, react, redux, frontend, node, express server, sql ddbb 
 
