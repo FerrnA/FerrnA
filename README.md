@@ -1,4 +1,4 @@
-<h1 align="center">Hi! 👋 i'm web dev</h1>
+<h1 align="center">Hi! 👋 i'm Fernando!</h1>
 <p align="center">After finishing soyhenry's bootcamp i'm looking for my first opportunity in IT </br>
 I'm a construction technician / music enthusiast and web developer. I like to spend my freetime playing the guitar, doing some open recreative activities, enjoying a cooking proccess, and watching debates, sports matches or videos / texts about history and geography </p>
 
@@ -29,8 +29,7 @@ I'm a construction technician / music enthusiast and web developer. I like to sp
 <br/>
 <hr>
 <span >
-<h4>Please feel free to reach me anytime at</h4>
-📱 +54-3424286541 </br>
+<h4>Feel free to reach me at</h4>
 <a href="https://www.linkedin.com/in/arriondo-fernando/"><img width="3.2%" src="https://github.com/FerrnA/FerrnA/blob/main/icon.png"> &nbsp;
 <a href="mailto:arriondovfernando@gmail.com"><img width="3.5%" src="https://github.com/FerrnA/FerrnA/blob/main/gmail.png">
 </span>
