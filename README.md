@@ -1,3 +1,4 @@
+<img src="https://github.com/FerrnA/FerrnA/blob/main/bannermulticolor.jpg">
 <h1 align="center">Hi! 👋 i'm Fernando!</h1>
 <p align="center">After finishing soyhenry's bootcamp i'm looking for my first opportunity in IT </br>
 I'm a construction technician / music enthusiast and web developer. I like to spend my freetime playing the guitar, doing some open recreative activities, enjoying a cooking proccess, and watching debates, sports matches or videos / texts about history and geography </p>
