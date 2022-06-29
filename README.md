@@ -1,4 +1,4 @@
-<img src="https://github.com/FerrnA/FerrnA/blob/main/bannermulticolor.jpg">
+<div style="position: relative"><img style="position: absolute; top: 0; left: 0; width: 100%" src="https://github.com/FerrnA/FerrnA/blob/main/bannermulticolor.jpg">
 <h1 align="center">Hi! 👋 i'm Fernando!</h1>
 <p align="left">After finishing soyhenry's bootcamp i'm looking for my first opportunity in IT. </br>
 I am a self-taught and autonomus person. I have my philosophical beliefs rooted in constant personal growth. Some of my hobbies are playing soccer and playing the guitar or the piano. </br>
@@ -10,6 +10,7 @@ As a programmer I am stack PERN and I find myself advancing towards an intermedi
 - 👨‍💻 Find my projects in -> [ferrna.github.io/Portfolio](ferrna.github.io/Portfolio)  
 
 <br/>
+</div>
 
 <h3 align="left">My languages and tools</h3>
 <p align="left">
