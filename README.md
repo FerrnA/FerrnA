@@ -1,17 +1,19 @@
 <img src="https://github.com/FerrnA/FerrnA/blob/main/bannermulticolor.jpg">
 <h1 align="center">Hi! 👋 i'm Fernando!</h1>
-<p align="center">After finishing soyhenry's bootcamp i'm looking for my first opportunity in IT </br>
-I'm a construction technician / music enthusiast and web developer. I like to spend my freetime playing the guitar, doing some open recreative activities, enjoying a cooking proccess, and watching debates, sports matches or videos / texts about history and geography </p>
+<p align="left">After finishing soyhenry's bootcamp i'm looking for my first opportunity in IT. </br>
+I am a self-taught and autonomus person. I have my philosophical beliefs rooted in constant personal growth. Some of my hobbies are playing soccer and playing the guitar or the piano. </br>
+As a programmer I am stack PERN and I find myself advancing towards an intermediate level in React, with technologies such as Next js and Typescript that make our lives easier 😄
+</p>
 
 - 📨 Ask me about css, react, redux, frontend, node, express server, sql ddbb 
 
-- 👨‍💻 Find my projects in -> [portfolio-fernan.vercel.app](portfolio-fernan.vercel.app)  
+- 👨‍💻 Find my projects in -> [ferrna.github.io/Portfolio](ferrna.github.io/Portfolio)  
 
 <br/>
 
-<h3 align="left">My languages and tools:</h3>
+<h3 align="left">My languages and tools</h3>
 <p align="left">
-<!-- <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> -->
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>  
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
@@ -19,8 +21,8 @@ I'm a construction technician / music enthusiast and web developer. I like to sp
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
   <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 <!--
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
 -->
