@@ -1,13 +1,12 @@
-<div style="position: relative"><img style="position: absolute; top: 0; left: 0; width: 100%" src="https://github.com/FerrnA/FerrnA/blob/main/bannermulticolor.jpg">
 <h1 align="center">Hi! 👋 i'm Fernando!</h1>
-<p align="left">After finishing soyhenry's bootcamp i'm looking for my first opportunity in IT. </br>
-I am a self-taught and autonomus person. I have my philosophical beliefs rooted in constant personal growth. Some of my hobbies are playing soccer and playing the guitar or the piano. </br>
-As a programmer I am stack PERN and I find myself advancing towards an intermediate level in React, with technologies such as Next js and Typescript that make our lives easier 😄
+<p align="left">
+As a Full stack web developer after finishing Henry's bootcamp, i'm looking for my first opportunity in IT. I'm a team player, kind, resilient, empathic and positive character with good communication and problem solving skills.</br>
+As a programmer I started studying in college when i did a small course about Arduino Uno and fell in love with it. Since i've been developing arduinos and web applications in my free time until i ended up in HENRY. Now my main activity consist in continuing learning and developing real projects as i look for a permanent job opportunity. Currently i'm being part of a junior acceleration in Alkemy. 😄
 </p>
 
-- 📨 Ask me about css, react, redux, frontend, node, express server, sql ddbb 
+- 📨 Ask me about HTML, Css, React, Redux, Tailwind css, Node Express API rest, Sequelize, Postgres, MySQL.
 
-- 👨‍💻 Find my projects in -> [ferrna.github.io/Portfolio](ferrna.github.io/Portfolio)  
+- 👨‍💻 My Portfolio -> [ferrna.github.io/Portfolio](ferrna.github.io/Portfolio)  
 
 <br/>
 </div>
@@ -31,11 +30,12 @@ As a programmer I am stack PERN and I find myself advancing towards an intermedi
 
 
 <br/>
-<hr>
 <span >
-<h4>Feel free to reach me at</h4>
-<a href="https://www.linkedin.com/in/arriondo-fernando/"><img width="3.2%" src="https://github.com/FerrnA/FerrnA/blob/main/icon.png"> &nbsp;
-<a href="mailto:arriondovfernando@gmail.com"><img width="3.5%" src="https://github.com/FerrnA/FerrnA/blob/main/gmail.png">
+<h3>Feel free to reach me at</h3>
+<p>Linkedin: https://www.linkedin.com/in/fernandoarriondo/</p>
+<a href="https://www.linkedin.com/in/arriondo-fernando/"><img width="3.2%" src="https://github.com/FerrnA/FerrnA/blob/main/icon.png"></a> &nbsp;
+<p>Gmail: arriondovfernando@gmail.com</p>
+<a href="mailto:arriondovfernando@gmail.com"><img width="3.2%" src="https://github.com/FerrnA/FerrnA/blob/main/gmail.png"></a>
 </span>
 
 
@@ -80,10 +80,12 @@ As a programmer I am stack PERN and I find myself advancing towards an intermedi
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FerrnA)](https://github.com/anuraghazra/github-readme-stats)  
 
-Please feel free to contact me. 
+<h2>Feel free to reach at</h2> 
 
-<span >
+<span>
+<p>Linkedin: https://www.linkedin.com/in/fernandoarriondo/</p>
 <a href="https://www.linkedin.com/in/fernandoarriondo/"><img width="5%" src="https://github.com/FerrnA/FerrnA/blob/main/linkedin.png"> &nbsp;
+<p>Gmail: arriondovfernando@gmail.com</p>
 <a href="mailto:arriondovfernando@gmail.com"><img width="5%" src="https://github.com/FerrnA/FerrnA/blob/main/gmail-icon.png">
 </span>
 -->
