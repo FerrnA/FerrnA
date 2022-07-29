@@ -1,12 +1,14 @@
-<h1 align="center">Hi! 👋 i'm Fernando!</h1>
+### Hi there!🤜🤛 i'm Fernando 😎  
+<div>
+<img src="./png-web-development.png"   align="left" height="550" width="550" >
 <p align="left">
 As a Full stack web developer after finishing Henry's bootcamp, i'm looking for my first opportunity in IT. I'm a team player, kind, resilient, empathic and positive character with good communication and problem solving skills.</br>
 As a programmer I started studying in college when i did a small course about Arduino Uno and fell in love with it. Since i've been developing arduinos and web applications in my free time until i ended up in HENRY. Now my main activity consist in continuing learning and developing real projects as i look for a permanent job opportunity. Currently i'm being part of a junior acceleration in Alkemy. 😄
 </p>
 
-- 📨 Ask me about HTML, Css, React, Redux, Tailwind css, Node Express API rest, Sequelize, Postgres, MySQL.
+Ask me about HTML, Css, React, Redux, Tailwind css, Node Express API rest, Sequelize, Postgres, MySQL.
 
-- 👨‍💻 My Portfolio -> [ferrna.github.io/Portfolio](ferrna.github.io/Portfolio)  
+👨‍💻 Check my new Portfolio!, i usually try to maintain it actualized -> [ferrna.github.io/Portfolio](ferrna.github.io/Portfolio)  
 
 <br/>
 </div>
@@ -27,7 +29,18 @@ As a programmer I started studying in college when i did a small course about Ar
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
 -->
 </p>
-
+<br/>
+<h2>My individual proyects and collaborations</h2>
+<br/>
+<div width="100%">
+### Full Stack e-commerce for tech store.
+Developed as final group project of Henry's intensive bootcamp.
+<br/>
+<img src="./ecommerce.png"   align="left" width="100%" >
+<br/>
+<img src="./ecomcheck.png"   align="left" width="100%" >
+</div>
+<hr>
 
 <br/>
 <span >
