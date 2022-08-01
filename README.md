@@ -31,18 +31,39 @@ Ask me about HTML, Css, React, Redux, Tailwind css, Node Express API rest, Seque
 </p>
 <br/>
 <h2>My individual proyects and collaborations</h2>
-<br/>
 <div width="100%">
-### Full Stack e-commerce for tech store.
-Developed as final group project of Henry's intensive bootcamp.
+
+### My-wallet
+Simple but beautiful e-wallet for keeping your finances, developed as a challenge for Alkemy acceleration
+<!--
+<img src="./home-mywallet.png"   align="left" width="100%" >
+<img src="./register-mywallet.png"   align="left" width="100%" >
+-->
+Home                       |  Register 
+:-------------------------:|:-------------------------:
+![](./home-mywallet.png)   |  ![](./register-mywallet.png)
+</div>
+<hr>
+  
+### E-kommerce
+E commerce tech store developed together with 5 teammates, as final group project of SoyHenry's bootcamp.
 <br/>
-<img src="./ecommerce.png"   align="left" width="100%" >
-<br/>
-<img src="./ecomcheck.png"   align="left" width="100%" >
+Home                       |  Checkout 
+:-------------------------:|:-------------------------:
+![](./ecommerce.png)   |  ![](./ecomcheck.png)
 </div>
 <hr>
 
+Z
 <br/>
+Weatherapp                       |  Personal portfolio 
+:-------------------------:|:-------------------------:
+![](./weatherapp.png)   |  ![](./portfolio.png)
+</div>
+<hr>
+
+
+
 <span >
 <h3>Feel free to reach me at</h3>
 <p>Linkedin: https://www.linkedin.com/in/fernandoarriondo/</p>
