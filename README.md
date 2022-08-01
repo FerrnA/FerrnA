@@ -6,9 +6,10 @@ As a Full stack web developer after finishing Henry's bootcamp, i'm looking for 
 As a programmer I started studying in college when i did a small course about Arduino Uno and fell in love with it. Since i've been developing arduinos and web applications in my free time until i ended up in HENRY. Now my main activity consist in continuing learning and developing real projects as i look for a permanent job opportunity. Currently i'm being part of a junior acceleration in Alkemy. 😄
 </p>
 
-Ask me about HTML, Css, React, Redux, Tailwind css, Node Express API rest, Sequelize, Postgres, MySQL.
+Ask me about HTML, CSS, React, Redux, Tailwind css, Node Express API rest, Sequelize, Postgres, MySQL.
+<hr/>
 
-👨‍💻 Check my new Portfolio!, i usually try to maintain it actualized -> [ferrna.github.io/Portfolio](ferrna.github.io/Portfolio)  
+My Portfolio -> [ferrna.github.io/Portfolio](ferrna.github.io/Portfolio)  
 
 <br/>
 </div>
