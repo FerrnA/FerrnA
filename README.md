@@ -34,6 +34,25 @@ Check out my portfolio!  [(ferrna.github.io/Portfolio)](ferrna.github.io/Portfol
 <h2>My individual proyects and collaborations</h2>
 <div width="100%">
 
+  
+### Pokeapi
+App developed as an individual evaluation of SoyHenry's bootcamp in January of 2022 and recently updated.
+<br/>
+Home                       |  Checkout 
+:-------------------------:|:-------------------------:
+![](./pokeapi-home.png)   |  ![](./pokeapi-create.png)
+</div>
+<hr>
+  
+### Somos Más
+Web page for GNO Somos Más, developed with 4 teammates in the Fullstack JavaScript aceleration Alkemy Latam.
+<br/>
+Home                       |  Responsive 
+:-------------------------:|:-------------------------:
+![](./somosmas-home.png)   |  ![](./somosmas-responsive.png)
+</div>
+<hr>
+  
 ### My-wallet
 Simple but beautiful e-wallet for keeping your finances, developed as a challenge for Alkemy acceleration
 <!--
@@ -47,7 +66,7 @@ Home                       |  Register
 <hr>
   
 ### E-kommerce
-E commerce tech store developed together with 5 teammates, as final group project of SoyHenry's bootcamp.
+Web commerce for a tech store, developed in a team of 6, as a final project of SoyHenry bootcamp.
 <br/>
 Home                       |  Checkout 
 :-------------------------:|:-------------------------:
@@ -55,21 +74,11 @@ Home                       |  Checkout
 </div>
 <hr>
   
-### Pokeapi
-App developed as an individual evaluation of SoyHenry's bootcamp in January of 2022 and recently updated.
-<br/>
-Home                       |  Checkout 
-:-------------------------:|:-------------------------:
-![](./pokeapi-home.png)   |  ![](./pokeapi-create.png)
-</div>
-<hr>
-  
-
 More  
 <br/>
 Weather app                       |  Personal portfolio 
 :-------------------------:|:-------------------------:
-![](./weatherapp.png)   |  ![](./portfolio.png)
+![](./weatherapp2.png)   |  ![](./portfolio.png)
 </div>
 <hr>
 
