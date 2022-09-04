@@ -54,10 +54,20 @@ Home                       |  Checkout
 ![](./ecommerce.png)   |  ![](./ecomcheck.png)
 </div>
 <hr>
-
-Z
+  
+### Pokeapi
+App developed as an individual evaluation of SoyHenry's bootcamp in January of 2022 and recently updated.
 <br/>
-Weatherapp                       |  Personal portfolio 
+Home                       |  Checkout 
+:-------------------------:|:-------------------------:
+![](./pokeapi-home.png)   |  ![](./pokeapi-create.png)
+</div>
+<hr>
+  
+
+More  
+<br/>
+Weather app                       |  Personal portfolio 
 :-------------------------:|:-------------------------:
 ![](./weatherapp.png)   |  ![](./portfolio.png)
 </div>
