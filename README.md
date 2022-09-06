@@ -38,7 +38,7 @@ Check out my portfolio!  [(ferrna.github.io/Portfolio)](ferrna.github.io/Portfol
 ### Pokeapi
 App developed as an individual evaluation of SoyHenry's bootcamp in January of 2022 and recently updated.
 <br/>
-Home                       |  Checkout 
+Home                       |  Create form 
 :-------------------------:|:-------------------------:
 ![](./pokeapi-home.png)   |  ![](./pokeapi-create.png)
 </div>
