@@ -66,7 +66,7 @@ Home                       |  Register
 <hr>
   
 ### E-kommerce
-Web commerce for a tech store, developed in a team of 6, as a final project of SoyHenry bootcamp.
+Web commerce for a tech store, developed with 5 teammates, as a final project for SoyHenry's bootcamp.
 <br/>
 Home                       |  Checkout 
 :-------------------------:|:-------------------------:
@@ -74,7 +74,7 @@ Home                       |  Checkout
 </div>
 <hr>
   
-More  
+More projects  
 <br/>
 Weather app                       |  Personal portfolio 
 :-------------------------:|:-------------------------:
