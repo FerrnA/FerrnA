@@ -1,20 +1,20 @@
-### Hi there!🤜🤛 i'm Fernando 😎  
+### Hi there! i'm Fernando 😎  
 <div>
 <img src="./png-web-development.png"   align="left" height="550" width="550" >
 <p align="left">
-As a Full stack web developer after finishing Henry's bootcamp, i'm looking for my first opportunity in IT. I'm a team player, kind, resilient, empathic and positive character with good communication and problem solving skills.</br>
+I'm a team player, kind, resilient, empathic and positive character with good communication and problem solving skills.</br>
 As a programmer I started studying in college when i did a small course about Arduino Uno and fell in love with it. Since i've been developing arduinos and web applications in my free time until i ended up in HENRY. Now my main activity consist in continuing learning and developing real projects as i look for a permanent job opportunity. Currently i'm being part of a junior acceleration in Alkemy. 😄
 </p>
 
-Ask me about HTML, CSS, React, Redux, Tailwind css, Node Express API rest, Sequelize, Postgres, MySQL.
+Ask me about HTML, CSS, React, Redux, Tailwind css, Node Express API rest, Sequelize, Postgres, MySQL, AWS.
 <hr/>
 
-Check out my portfolio!  [(ferrna.github.io/Portfolio)](ferrna.github.io/Portfolio)  
+Check out my portfolio here!  [(ferrna.github.io/Portfolio)](ferrna.github.io/Portfolio)  
 
 <br/>
 </div>
 
-<h3 align="left">My languages and tools</h3>
+<h3 align="left">Languages and tools</h3>
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>  
@@ -31,7 +31,7 @@ Check out my portfolio!  [(ferrna.github.io/Portfolio)](ferrna.github.io/Portfol
 -->
 </p>
 <br/>
-<h2>My individual proyects and collaborations</h2>
+<h2>Individual proyects and team collaborations</h2>
 <div width="100%">
 
   
@@ -85,7 +85,7 @@ Weather app                       |  Personal portfolio
 
 
 <span >
-<h3>Feel free to reach me at</h3>
+<h3>Feel free to reach me</h3>
 <p>Linkedin: https://www.linkedin.com/in/fernandoarriondo/</p>
 <a href="https://www.linkedin.com/in/arriondo-fernando/"><img width="3.2%" src="https://github.com/FerrnA/FerrnA/blob/main/icon.png"></a> &nbsp;
 <p>Gmail: arriondovfernando@gmail.com</p>
