@@ -9,7 +9,7 @@ As a programmer I started studying in college when i did a small course about Ar
 Ask me about HTML, CSS, React, Redux, Tailwind css, Node Express API rest, Sequelize, Postgres, MySQL, AWS.
 <hr/>
 
-Check out my portfolio here!  [(ferrna.github.io/Portfolio)](ferrna.github.io/Portfolio)  
+Check out my portfolio here!  [Portfolio](https://ferrna.github.io/Portfolio)
 
 <br/>
 </div>
