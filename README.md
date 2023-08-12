@@ -1,4 +1,4 @@
-### Hi there! i'm Fernando 😎  
+### Hi there! i'm Fernando   
 <div>
 <img src="./png-web-development.png"   align="left" height="550" width="550" >
 <p align="left">
