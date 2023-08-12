@@ -1,12 +1,13 @@
-### Hi there! i'm Fernando   
-<div>
-<img src="./png-web-development.png"   align="left" height="550" width="550" >
-<p align="left">
-I'm a team player, kind, resilient, empathic and positive character with good communication and problem solving skills.</br>
-As a programmer I started studying in college when i did a small course about Arduino Uno and fell in love with it. Since i've been developing web applications since i ended up in HENRY. Now my main goal consist in continuing learning and developing real projects as i look for a permanent job opportunity. Currently i'm being part of a junior acceleration in Alkemy. 😄
-</p>
 
-Ask me about HTML, CSS, React, Redux, Tailwind css, Node Express API rest, Sequelize, Postgres, MySQL, AWS.
+### Hello there! I'm Fernando, and I'm thrilled to have you stop by. 
+<div>
+<p align="left">
+I embody a team player spirit, characterized by kindness, resilience, empathy, and an inherently positive demeanor. My communication prowess and knack for creative problem-solving further enhance my profile.</br>
+My journey into the world of programming commenced during my college years, where Python first captivated my interest. A subsequent rendezvous with an Arduino Uno course ignited a passion within me. My programming voyage has guided me through the creation of web applications, eventually steering me towards the doors of HENRY. Currently, my primary objective revolves around perpetual learning and the realization of tangible projects, all while actively seeking that ideal permanent role. Presently, I'm engaged in an invigorating junior acceleration program at Alkemy, adding another layer to my exciting journey. 😄
+</p>
+From the inception of my programming adventure through courses to my time at HENRY and Alkemy, my skillset has become a mosaic of proficiencies. My wheelhouse includes HTML, CSS, React, Redux, Tailwind CSS, Node.js with Express for RESTful APIs, as well as working knowledge of Sequelize, Postgres, MySQL, and AWS.
+
+Feel free to engage me on topics spanning from HTML and CSS aesthetics to the intricate realm of React and database management. I'm here to share, collaborate, and learn together. Let's embark on this coding odyssey! 🚀
 <hr/>
 
 Check out my portfolio here!  [Portfolio](https://ferrna.github.io/Portfolio)
