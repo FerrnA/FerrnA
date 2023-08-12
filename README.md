@@ -3,7 +3,7 @@
 <img src="./png-web-development.png"   align="left" height="550" width="550" >
 <p align="left">
 I'm a team player, kind, resilient, empathic and positive character with good communication and problem solving skills.</br>
-As a programmer I started studying in college when i did a small course about Arduino Uno and fell in love with it. Since i've been developing arduinos and web applications in my free time until i ended up in HENRY. Now my main activity consist in continuing learning and developing real projects as i look for a permanent job opportunity. Currently i'm being part of a junior acceleration in Alkemy. 😄
+As a programmer I started studying in college when i did a small course about Arduino Uno and fell in love with it. Since i've been developing web applications since i ended up in HENRY. Now my main goal consist in continuing learning and developing real projects as i look for a permanent job opportunity. Currently i'm being part of a junior acceleration in Alkemy. 😄
 </p>
 
 Ask me about HTML, CSS, React, Redux, Tailwind css, Node Express API rest, Sequelize, Postgres, MySQL, AWS.
