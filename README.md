@@ -1,16 +1,16 @@
 
-### Hello there! I'm Fernando, and I'm thrilled to have you stop by. 
+### Hello there! I'm Fernando.
 <div>
 <p align="left">
-I embody a team player spirit, characterized by kindness, resilience, empathy, and an inherently positive demeanor. My communication prowess and knack for creative problem-solving further enhance my profile.</br>
-My journey into the world of programming commenced during my 📗college years, where 🔸Python first captivated my interest. A subsequent rendezvous with an :electron: Arduino Uno course ignited a passion within me. My programming voyage has guided me through the creation of web applications, eventually steering me towards the doors of 🟡HENRY🟡. Currently, my primary objective revolves around perpetual learning and the realization of tangible projects, all while actively seeking that ideal permanent role. My recent participation in a junior acceleration program at 🔷Alkemy has further enriched my experiences and learnings. 😄
+My journey into the world of programming commenced during my uni, where i had a small encounter with pseudocode. A subsequent with Arduino and bootcamp SoyHENRY. Up to a recent participation in an acceleration program under 🔷Alkemy.
 </p>
-From the inception of my programming adventure through courses to my time at HENRY and Alkemy, my skillset has become a mosaic of proficiencies. My wheelhouse includes HTML, CSS, React, Redux, Tailwind CSS, Node.js with Express for RESTful APIs, as well as working knowledge of Sequelize, Postgres, MySQL, and AWS.
+My skillset has become more tasteful. My technical capabilities/libraries/languages/tools cover (HTML CSS JS), React, Flux-Redux, Node.js with Express, SQL, NextJS, AWS infrastructure, and others (Java, ArduinoUno C++, Git, )
 
-Feel free to engage me on topics spanning from HTML and CSS aesthetics to the intricate realm of React and database management. I'm here to share, collaborate, and learn together. Let's embark on this coding odyssey! 🚀
+Feel free to engage me on conversation spanning any kind of question or opportunity.
+Let's embark on this coding odyssey! 🚀
 <hr/>
 
-Check out my portfolio here!  [Portfolio](https://ferrna.github.io/Portfolio)
+Check out my portfolio here -> [Portfolio](https://ferrna.github.io/Portfolio)
 
 <br/>
 </div>
