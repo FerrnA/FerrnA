@@ -1,5 +1,5 @@
 
-### Hello there! I'm Fernando.
+### Hello there! I'm Fernando
 <div>
 <p align="left">
 My journey into the world of programming commenced during my uni, where i had a small encounter with pseudocode. A subsequent with Arduino and bootcamp SoyHENRY. Up to a recent participation in an acceleration program under 🔷Alkemy.
